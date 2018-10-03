@@ -1,0 +1,32 @@
+
+
+
+Command Line:
+    to handle all command - Bahdah
+
+login
+    welcome screen
+    show options:
+        numerically labeled options
+    shop
+        buy pack
+    account
+        user profile
+        credit card info
+    collections - view owned cards
+
+
+sign up
+    add user
+        use Q and A
+
+card open packs
+don't draw free cards
+75%  - common
+25%  - rare
+10%  - epic
+1%   - legendary
+111% - total
+
+one card must be a rank higher than the rest
+    have four select statements

@@ -1,0 +1,34 @@
+
+
+Specifics
+
+[done]        |   Select an application that requires a database.
+
+[done]        |   Specify the information requirements that you are going to use.
+
+[done]        |   Devise a conceptual model using the ER model and UML.
+
+[done]        |   Transform the conceptual model into a logical model implemented using a relational
+              |   database with integrity constraints. In particular, you must make use of primary and foreign keys,
+              |   integrity constraints, triggers, stored procedures, and indexes.
+
+[unfinished]  |   Define different application functionalities and write SQL queries that will help
+              |   implementing those functionalities.
+
+[done]        |   Study the normalization of your relations.
+
+[unfinished]  |   Populate the tables with reasonable amounts of data (a handful of rows is not enough: some
+              |   tables must have more than 100s-1000s of rows!). Make a script of Java class to populate
+              |   this data into the database.
+              |
+              |   this will be the card table
+
+[done]        |   Write the code needed to access the database system from a high level language of your
+              |   choice.
+
+[unfinished]  |   Run the previously defined queries to check that your queries are working as expected.
+
+[unfinished]  |   Identify drawbacks where a relational database may not be suitable.
+
+[unfinished]  |   [Optional] Identify whether or not and how NoSQL databases can solve some or all of the
+              |   previous drawbacks.
